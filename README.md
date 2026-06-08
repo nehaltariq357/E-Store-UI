@@ -66,7 +66,7 @@ It focuses on:
 ## ⚙️ Folder Structure
 
 ```bash id="estore001"
-/app or /pages
+/pages
   /components
   /sections
   /data
@@ -86,4 +86,4 @@ It focuses on:
 
 
 
-deployed URL = https://e-store-three-mu.vercel.app/
+deployed URL =https://e-store-ui-omega.vercel.app/
